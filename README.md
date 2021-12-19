@@ -14,7 +14,7 @@ In addition, the goal is to create mmorpg by myself from a to z by combining it 
 ### Tools
 <img src="https://img.shields.io/badge/Win32API-38303f?style=flat-square&color=white&logo=MICROSOFT&logoColor=f41e48"/> <img src="https://img.shields.io/badge/DirectX-38303f?style=flat-square&color=white&logo=MICROSOFT&logoColor=02afb7"/>
 
-## ✨ Hits
+## ✨ Today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMawi1e&count_bg=%23DD3939&title_bg=%23555555&icon=spreaker.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br></br>
