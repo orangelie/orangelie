@@ -5,7 +5,8 @@
 😀 Hello, everyone.
 I'm a **game engine programmer**.  💌
 I want to develop various game engine platforms using **DirectX 12**.  💌
-In addition, the goal is to create mmorpg by myself from a to z by combining it with the network, which is my favorite field.
+
+🎮 I want to create a user-friendly game engine platform (tool) such as Kadokawa's rpgmaker and Supercat's Nekoland. The low-cost game engine platform (tool) will also support 3D game development. 🎮
 
 🥋 I usually spend time playing games or health training.
 
