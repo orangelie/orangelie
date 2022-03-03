@@ -1,14 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?text=Mawi1e!&fontSize=50&rotate=0&color=38303f&fontColor=ffffff&type=Waving&animation=scaleIn)
 
-<a href="https://mawile.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-e20133?style=flat-square&logo=BLOG&logoColor=white"/></a>
-
-😀 Hello, everyone.
-I'm a **game engine programmer**.  💌
-I want to develop various game engine platforms using **DirectX 12**.  💌
-
-🎮 I want to create a user-friendly game engine platform (tool) such as Kadokawa's rpgmaker and Supercat's Nekoland. The low-cost game engine platform (tool) will also support 3D game development. 🎮
-
-🥋 I usually spend time playing games or health training.
+😀 Hello, everyone. 
+🎮 I want to share various and convenient **game development tools** for those who are not good at game development **in their daily lives**. 🎮 
+Also, I want to make a game with my own extraordinary worldview. 
+🥋 I usually spend time playing games or health training. 
 
 ## 🗡️ Skills
 ### Platform & Languages
@@ -20,4 +15,4 @@ I want to develop various game engine platforms using **DirectX 12**.  💌
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMawi1e&count_bg=%23DD3939&title_bg=%23555555&icon=spreaker.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br></br>
-***Let's not give up.***
+***Do not give up.***
