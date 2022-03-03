@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?text=Mawi1e!&fontSize=50&rotate=0&color=38303f&fontColor=ffffff&type=Waving&animation=scaleIn)
 
-😀 Hello, everyone. 
-🎮 I want to share various and convenient **game development tools** for those who are not good at game development **in their daily lives**. 🎮 
-Also, I want to make a game with my own extraordinary worldview. 
-🥋 I usually spend time playing games or health training. 
+😀 Hello, everyone.  
+🎮 I want to share various and convenient **game development tools** for those who are not good at game development **in their daily lives**. 🎮  
+Also, I want to make a game with my own extraordinary worldview.  
+🥋 I usually spend time playing games or health training.   
 
 ## 🗡️ Skills
 ### Platform & Languages
