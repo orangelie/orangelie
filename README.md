@@ -10,7 +10,7 @@ I am a student who is interested in
 **game programming** and **graphics technology**.  
 I am trying to achieve my dream mainly in game graphics,  
 and my favorite hobbies are **health training** and **programming**.  
-** 💖  Thank you ! 💖 **  
+ 💖  Thank you ! 💖   
 <br></br>
 
 # 🛠️ Tech Stack 🛠️
