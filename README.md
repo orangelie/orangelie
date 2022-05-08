@@ -14,7 +14,8 @@ Also, I want to make a game with my own extraordinary worldview.
 ## ✨ Today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMawi1e&count_bg=%23DD3939&title_bg=%23555555&icon=spreaker.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Orangelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw031489@naver.com&show_icons=true&theme=tokyonight)
+[![Orangelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangelie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br></br>
 ***Do not give up.***
