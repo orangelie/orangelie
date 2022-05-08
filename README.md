@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?text=It%20is%20silent,%20but%20proceeding%20hard%20!&fontSize=50&rotate=0&color=38303f&fontColor=ffffff&type=Waving&animation=scaleIn)
 
 😀 Hello, everyone.  
@@ -20,3 +22,5 @@ Also, I want to make a game with my own extraordinary worldview.
 
 <br></br>
 ***Do not give up.***
+
+</div>
