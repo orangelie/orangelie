@@ -11,6 +11,8 @@ Also, I want to make a game with my own extraordinary worldview.
 ### Tools
 [![Made with Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com) ![Microsoft](https://img.shields.io/badge/DirectX12-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangelie&layout=compact&theme=tokyonight)  
+
 [![Orangelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangelie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## ✨ Today
