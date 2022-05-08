@@ -19,9 +19,14 @@ and my favorite hobbies are **health training** and **programming**.
   
 [![Made with Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com) ![Microsoft](https://img.shields.io/badge/DirectX12-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
 <br></br>
-## 📋 Stats 📋
+# 📋 Stats 📋
   [![Orangelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangelie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)      
         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangelie&layout=compact&theme=tokyonight)       
+<br></br>
+
+## 📲 Contact Me 📲   
+[![GithubBlog](https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white)](https://orangelie.github.io)  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCti5At3Qy_soSHXzbds0G7w)  
+
 <br></br>
 ## ✨ Today ✨
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forangelie&count_bg=%23DD3939&title_bg=%23555555&icon=spreaker.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
