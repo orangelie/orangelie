@@ -21,7 +21,8 @@ and my favorite hobbies are **health training** and **programming**.
 <br></br>
 # 📋 Stats 📋
   [![Orangelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangelie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)      
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangelie&layout=compact&theme=tokyonight)       
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangelie&layout=compact&theme=tokyonight)    
+        <a href="https://opgc.me/#/users/orangelie" target="_blank"><img src="https://api.opgc.me/githubs/users/orangelie/tag/?theme=basic" /></a>
 <br></br>
 
 ## 📲 Contact Me 📲   
