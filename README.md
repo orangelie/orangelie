@@ -13,6 +13,12 @@ and my favorite hobbies are **health training** and **programming**.
  💖  Thank you ! 💖   
 <br></br>
 
+# 👉 Recommended Repositories 👈  
+[Dx12UIFont](https://github.com/orangelie/Dx12UIFont): This is a repository that implements UI and font with directx12. 
+[Physics-Modeling](https://github.com/orangelie/Physics-Modeling): It is a repository that implements physical simulators and physical engines with various renderers. 
+[Dx12Study](https://github.com/orangelie/DirectX12Study): This is a repository that implements directx12 tutorials. 
+<br></br>
+
 # 🛠️ Tech Stack 🛠️
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
