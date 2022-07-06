@@ -14,9 +14,9 @@ and my favorite hobbies are **health training** and **programming**.
 <br></br>
 
 # 👉 Recommended Repositories 👈  
-[Dx12UIFont](https://github.com/orangelie/Dx12UIFont): This is a repository that implements UI and font with directx12. 
-[Physics-Modeling](https://github.com/orangelie/Physics-Modeling): It is a repository that implements physical simulators and physical engines with various renderers. 
-[Dx12Study](https://github.com/orangelie/DirectX12Study): This is a repository that implements directx12 tutorials. 
+[Dx12UIFont](https://github.com/orangelie/Dx12UIFont): This is a repository that implements UI and font with directx12.   
+[Physics-Modeling](https://github.com/orangelie/Physics-Modeling): It is a repository that implements physical simulators and physical engines with various renderers.   
+[Dx12Study](https://github.com/orangelie/DirectX12Study): This is a repository that implements directx12 tutorials.   
 <br></br>
 
 # 🛠️ Tech Stack 🛠️
