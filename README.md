@@ -14,6 +14,7 @@ and my favorite hobbies are **health training** and **programming**.
 <br></br>
 
 # 👉 Recommended Repositories 👈  
+[Dynamics3D](https://github.com/orangelie/Dynamics3D): Simple and Cute Mini-Physic Engine.  
 [MSDirectXAnalysis](https://github.com/orangelie/MSDirectXAnalysis): Analyze and study MS DirectX Sample projects.   
 [Dx12UIFont](https://github.com/orangelie/Dx12UIFont): This is a repository that implements UI and font with directx12.   
 [Physics-Modeling](https://github.com/orangelie/Physics-Modeling): It is a repository that implements physical simulators and physical engines with various renderers.   
