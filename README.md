@@ -10,6 +10,8 @@ I am a student who is interested in
 **game programming** and **graphics technology**.  
 I am trying to achieve my dream mainly in game graphics,  
 and my favorite hobbies are **health training** and **programming**.  
+I'll take on a constant challenge. I won't be afraid to fail.  
+I won't take the easy way.  
  💖  Thank you ! 💖   
 <br></br>
 
@@ -17,8 +19,7 @@ and my favorite hobbies are **health training** and **programming**.
 [Dynamics3D](https://github.com/orangelie/Dynamics3D): Simple and Cute Mini-Physic Engine.  
 [MSDirectXAnalysis](https://github.com/orangelie/MSDirectXAnalysis): Analyze and study MS DirectX Sample projects.   
 [Dx12UIFont](https://github.com/orangelie/Dx12UIFont): This is a repository that implements UI and font with directx12.   
-[Physics-Modeling](https://github.com/orangelie/Physics-Modeling): It is a repository that implements physical simulators and physical engines with various renderers.   
-[Dx12Study](https://github.com/orangelie/DirectX12Study): This is a repository that implements directx12 tutorials.   
+[Physics-Modeling](https://github.com/orangelie/Physics-Modeling): It is a repository that implements physical simulators and physical engines with various renderers. 
 <br></br>
 
 # 🛠️ Tech Stack 🛠️
@@ -41,6 +42,6 @@ and my favorite hobbies are **health training** and **programming**.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forangelie&count_bg=%23DD3939&title_bg=%23555555&icon=spreaker.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 <br></br>
 <br></br>
-***Do not give up.***
+***Don't be afraid of failure***
 
 </div>
