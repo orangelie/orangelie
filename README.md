@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Keep%20challenging%20yourself&fontSize=35&rotate=0&color=383fff&fontColor=fd0753&type=Waving&animation=scaleIn)
 
  Hello, I am a student who is interested in   
-**game programming** and **graphics technologeis**.    
+**game programming** and **graphics technologs**.    
 Now I feel like even I don't have much confidence in my skills.    
   But I think I can achieve my dream someday if I don't stop and keep trying    
   My dream is to make a game with my own extraordinary worldview**.   
