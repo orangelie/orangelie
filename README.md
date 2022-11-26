@@ -2,24 +2,20 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Keep%20challenging%20yourself&fontSize=35&rotate=0&color=383fff&fontColor=fd0753&type=Waving&animation=scaleIn)
 
-😀 Hello, everyone.  😀  
-🎮 I want to share various and convenient **game development tools**  
-  for those who are not good at game development **in their daily lives**. 🎮   
-Also, **I want to make a game with my own extraordinary worldview**.    
-I am a student who is interested in  
-**game programming** and **graphics technology**.  
-I am trying to achieve my dream mainly in game graphics,  
-and my favorite hobbies are **health training** and **programming**.  
-I'll take on a constant challenge. I won't be afraid to fail.  
-I won't take the easy way.  
- 💖  Thank you ! 💖   
+ Hello, I am a student who is interested in 
+**game programming** and **graphics technologeis**. 
+Now I feel like even I don't have much confidence in my skills. 
+  But I think I can achieve my dream someday if I don't stop and keep trying 
+  My dream is to make a game with my own extraordinary worldview**. 
+  I feel joy when people enjoy my games or content I make and comment on me. 
+  So I'm not afraid of challenges. 
+ 💖 Thank you 💖   
 <br></br>
 
 # 👉 Recommended Repositories 👈  
 [Dynamics3D](https://github.com/orangelie/Dynamics3D): Simple and Cute Mini-Physic Engine.  
 [MSDirectXAnalysis](https://github.com/orangelie/MSDirectXAnalysis): Analyze and study MS DirectX Sample projects.   
 [Dx12UIFont](https://github.com/orangelie/Dx12UIFont): This is a repository that implements UI and font with directx12.   
-[Physics-Modeling](https://github.com/orangelie/Physics-Modeling): It is a repository that implements physical simulators and physical engines with various renderers. 
 <br></br>
 
 # 🛠️ Tech Stack 🛠️
@@ -42,6 +38,6 @@ I won't take the easy way.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forangelie&count_bg=%23DD3939&title_bg=%23555555&icon=spreaker.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 <br></br>
 <br></br>
-***Don't be afraid of failure***
+***Don't be afraid of failure.***
 
 </div>
