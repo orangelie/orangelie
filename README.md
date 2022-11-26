@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?text=It%20is%20silent,%20but%20proceeding%20hard&fontSize=35&rotate=0&color=383fff&fontColor=fd0753&type=Waving&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?text=Keep%20challenging%20yourself&fontSize=35&rotate=0&color=383fff&fontColor=fd0753&type=Waving&animation=scaleIn)
 
 😀 Hello, everyone.  😀  
 🎮 I want to share various and convenient **game development tools**  
@@ -24,9 +24,9 @@ I won't take the easy way.
 
 # 🛠️ Tech Stack 🛠️
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
   
-[![Made with Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com) ![Microsoft](https://img.shields.io/badge/DirectX12-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Microsoft](https://img.shields.io/badge/DirectX12-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 <br></br>
 # 📋 Stats 📋
   [![Orangelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangelie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)      
