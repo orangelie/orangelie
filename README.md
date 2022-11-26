@@ -5,8 +5,8 @@
  Hello, I am a student who is interested in   
 **game programming** and **graphics technologies**.    
 Now I feel like even I don't have much confidence in my skills.    
-  But I think I can achieve my dream someday if I don't stop and keep trying    
-  My dream is to make a game with my own extraordinary worldview**.   
+  But I think I can achieve my dream someday if I don't stop and keep trying.    
+  **My dream is to make a game with my own extraordinary worldview**.   
   I feel joy when people enjoy my games or content I make and comment on me.   
   So I'm not afraid of challenges.   
  💖 Thank you 💖     
