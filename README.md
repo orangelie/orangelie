@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?text=Keep%20challenging%20yourself&fontSize=35&rotate=0&color=383fff&fontColor=fd0753&type=Waving&animation=scaleIn)
 
 Hello, I'm a student interested in game graphics algorithms and physical simulations.
-I want to study hard consistently.
+
+Recently, I'm interested in game security, so I'm also studying assembly(, reverse engineering).
 <br></br>
 
 # 👉 Recommended Repositories 👈  
